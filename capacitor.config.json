@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Whats-On Campus",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
